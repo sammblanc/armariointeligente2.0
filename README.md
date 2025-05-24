@@ -10,6 +10,7 @@ O Armário Inteligente é um sistema de gerenciamento para condomínios que perm
 - Maven 3.6 ou superior
 - PostgreSQL (para ambiente de produção)
 - H2 Database (para ambiente de desenvolvimento/testes)
+- Postman para testar os endpoints
 
 ## Tecnologias Utilizadas
 
@@ -24,10 +25,10 @@ O Armário Inteligente é um sistema de gerenciamento para condomínios que perm
 
 ### Clonando o Repositório
 
-\`\`\`bash
-git clone https://github.com/sammblanc/armario-inteligente.git
+```bash
+git clone https://github.com/sammblanc/ArmarioInteligente2.0.git
 cd armario-inteligente
-\`\`\`
+```
 
 ### Configuração do Banco de Dados
 
